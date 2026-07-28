@@ -117,7 +117,7 @@
             '</div>' +
             '<div class="copy b">' +
               '<div class="shade"></div>' +
-              '<p class="eyebrow">' + esc(a('eyebrow-2') || 'Storia / Large-format porcelain') + '</p>' +
+              '<p class="eyebrow">' + esc(a('eyebrow-2') || 'Madera Studio / Large-format porcelain') + '</p>' +
               '<h1>' + headlineHTML(a('headline-2') || 'And ends|underfoot') + '</h1>' +
               (a('sub-2') === '' ? '' :
                 '<p class="sub">' + esc(a('sub-2') ||
